@@ -21,7 +21,28 @@ PASSWORD GENERATOR:
 
 This code is a simple password generator program using the Tkinter library in Python. It provides a graphical user interface (GUI) with an entry field for the user to input the desired password length. Upon clicking the "Generate Password" button, the program generates a random password of the specified length, consisting of a mix of uppercase and lowercase letters, digits, and special characters. The generated password is displayed in another entry field. If the user enters an invalid password length (zero or negative), an error message is shown using a pop-up messagebox. The GUI is clean and straightforward, making it easy for users to generate secure passwords with a specified length.
 
+CONTACT BOOK:
 
+This program is a simple contact book application created using the Tkinter library in Python. The application provides a graphical user interface (GUI) with entry fields for the user to input contact names and phone numbers. It includes a listbox that displays the names of the saved contacts. Users can add new contacts, delete existing ones, and select contacts from the list to view and edit their details.
+
+The main features of the program include:
+
+Add Contact: Users can input a name and phone number in the provided entry fields and click the "Add Contact" button to save the contact. A warning message is displayed if either the name or phone number is missing.
+
+Delete Contact: Users can select a contact from the list and click the "Delete Contact" button to remove it from the contact book. A warning message is displayed if no contact is selected.
+
+Listbox Display: The listbox dynamically displays the names of the saved contacts, allowing users to see their contact list at a glance.
+
+Contact Selection: When a contact is selected from the list, the corresponding name and phone number are displayed in the entry fields, allowing users to edit or review the contact details.
+
+The program promotes a user-friendly experience with clear labels, entry fields, buttons, and listbox interactions. It serves as a basic example of how to create a simple contact book application using Tkinter.
+
+
+
+
+
+
+    
 
 
 
