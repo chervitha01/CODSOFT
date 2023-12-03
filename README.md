@@ -17,6 +17,9 @@ ROCKPAPERSCISSORS:
 
 This program is a simple implementation of the Rock, Paper, Scissors game using the Tkinter library in Python. The game has a graphical user interface (GUI) with buttons for the player to choose Rock, Paper, or Scissors. The computer randomly selects its choice. After the player makes a choice, the program compares it with the computer's choice and determines the winner based on predefined rules. The scores for the player and the computer are displayed on the screen, along with the choices made and the outcome of each round. The player can continue playing by clicking the buttons, and the scores are updated accordingly.
 
+PASSWORD GENERATOR:
+
+This code is a simple password generator program using the Tkinter library in Python. It provides a graphical user interface (GUI) with an entry field for the user to input the desired password length. Upon clicking the "Generate Password" button, the program generates a random password of the specified length, consisting of a mix of uppercase and lowercase letters, digits, and special characters. The generated password is displayed in another entry field. If the user enters an invalid password length (zero or negative), an error message is shown using a pop-up messagebox. The GUI is clean and straightforward, making it easy for users to generate secure passwords with a specified length.
 
 
 
